@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /images/
+​Sitemap location for search engines
+​Sitemap: https://www.google.com/search?q=https://modexweb.github.io/subway-surfers-city-download/sitemap.xml
